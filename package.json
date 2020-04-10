@@ -1,7 +1,7 @@
 {
   "name": "hcaptcha-test-keys",
   "description": "The hCaptcha widget keys for testing and development environments.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": "https://github.com/goto-bus-stop/hcaptcha-test-keys/issues",
   "homepage": "https://github.com/goto-bus-stop/hcaptcha-test-keys",
